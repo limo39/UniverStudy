@@ -1,0 +1,9 @@
+from django.contrib.auth.models import User
+
+user = User.objects.create_user('sonu','sonu@xyz.com','sn@pswrd')
+user.save()
+
+
+apt-get install pulseaudio
+
+apt-get install gnome-core
